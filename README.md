@@ -331,7 +331,9 @@
     √ 帮助企业构建基于用户真实行为的标签体系和画像洞察，通过营销自动化实现精准触达与高效互动，提升用户体验
    
 
-技术交流:
-    
-    微信交流群：https://my-macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/design/wechat_group/bdp_%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg
-    个人微信：https://my-macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/wechat/%E5%BE%AE%E4%BF%A1.jpg
+12、技术交流
+
+bdp交流群: https://my-macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/design/wechat_group/bdp_%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg
+
+作者微信: https://my-macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/images/wechat/%E5%BE%AE%E4%BF%A1.jpg
+
